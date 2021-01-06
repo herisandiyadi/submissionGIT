@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SubmissionGit</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="avatar">Avatar</string>
+    <string name="find_username">Find Username</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+</resources>
